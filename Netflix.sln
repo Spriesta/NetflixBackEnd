@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netflix", "Netflix\Netflix.csproj", "{874FBB6F-6B37-44D0-95AD-3E6BA9B8CBF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{5BB79483-CC9C-4FAE-AB53-05A12797F4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netflix.Data", "Netflix.Data\Netflix.Data.csproj", "{7AE5CF13-32CB-4FF5-9B10-45A8AFFFCB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874FBB6F-6B37-44D0-95AD-3E6BA9B8CBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874FBB6F-6B37-44D0-95AD-3E6BA9B8CBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874FBB6F-6B37-44D0-95AD-3E6BA9B8CBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874FBB6F-6B37-44D0-95AD-3E6BA9B8CBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB79483-CC9C-4FAE-AB53-05A12797F4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB79483-CC9C-4FAE-AB53-05A12797F4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB79483-CC9C-4FAE-AB53-05A12797F4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB79483-CC9C-4FAE-AB53-05A12797F4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE5CF13-32CB-4FF5-9B10-45A8AFFFCB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE5CF13-32CB-4FF5-9B10-45A8AFFFCB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE5CF13-32CB-4FF5-9B10-45A8AFFFCB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE5CF13-32CB-4FF5-9B10-45A8AFFFCB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9CA7AF-5EB0-4537-86B8-61E8D9EC1A9B}
+	EndGlobalSection
+EndGlobal
